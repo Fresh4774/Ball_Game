@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: linear-gradient(to right, #B1B2FF, #2389DA, #AAC4FF);
+}
+
+canvas {
+  display:block;
+  margin: 40px auto 20px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
